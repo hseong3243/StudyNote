@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "스프링 공식 문서/테스트 컨텍스트/컨텍스트 관리.md",
+                "file": "CS/CAP 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 359.5,
+    "collapsed": true
   },
   "right": {
     "id": "a1de65d241a08a84",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스프링 공식 문서/테스트 컨텍스트/컨텍스트 관리.md",
+                "file": "CS/CAP 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스프링 공식 문서/테스트 컨텍스트/컨텍스트 관리.md",
+                "file": "CS/CAP 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스프링 공식 문서/테스트 컨텍스트/컨텍스트 관리.md"
+                "file": "CS/CAP 정리.md"
               }
             }
           }
@@ -149,10 +150,19 @@
   },
   "active": "f8c7e7233d8064e1",
   "lastOpenFiles": [
-    "블로그/낙관적 락, 비관적 락, 데드락/낙관적 락, 데드락, 비관적 락.md",
-    "블로그/낙관적 락, 비관적 락, 데드락/낙관적락과 데드락.excalidraw.png",
+    "CS/처리율 제한 알고리즘.md",
+    "CS/CAP 정리.md",
+    "Excalidraw/Drawing 2024-01-05 21.44.10.excalidraw.md",
+    "CS/동기, 비동기, 블록킹, 논블록킹.md",
+    "블로그/스프링 이벤트 발행/스프링 이벤트 발행.md",
+    "백엔드/동기",
+    "CS",
     "이력서/2023.10.09.md",
     "이력서/이력서의 숫자.md",
+    "Excalidraw/Drawing 2024-01-04 23.12.07.excalidraw.md",
+    "스프링 공식 문서/테스트 컨텍스트/컨텍스트 관리.md",
+    "블로그/낙관적 락, 비관적 락, 데드락/낙관적 락, 데드락, 비관적 락.md",
+    "블로그/낙관적 락, 비관적 락, 데드락/낙관적락과 데드락.excalidraw.png",
     "Excalidraw/캡슐화,추상화,다형성,상속.excalidraw.md",
     "Excalidraw/Drawing 2024-01-04 23.03.29.excalidraw.md",
     "Excalidraw/Drawing 2024-01-04 22.59.26.excalidraw.md",
@@ -175,26 +185,17 @@
     "cs",
     "블로그/프로젝션, 인덱스로 조회 성능 개선하기/프로젝션, 인덱스로 조회 성능 개선하기(feat. Ngrinder).md",
     "블로그/프로젝션, 인덱스로 조회 성능 개선하기/explain(인덱스없음).png",
-    "블로그 마크다운.md",
-    "블로그/일대다 페이지네이션 개선하기(feat.n+1)/일대다 페이지네이션 개선하기.md",
     "블로그/일대다 페이지네이션 개선하기(feat.n+1)/스크린샷 2023-12-13 오후 9.25.09.png",
     "블로그/일대다 페이지네이션 개선하기(feat.n+1)/스크린샷 2023-12-13 오후 9.25.09 1.png",
     "스크린샷 2023-12-15 오후 5.27.53.png",
     "블로그/일대다 페이지네이션 개선하기(feat.n+1)/스크린샷 2023-12-13 오후 9.22.07 1.png",
     "스크린샷 2023-12-14 오후 10.07.31.png",
-    "블로그/일대다 페이지네이션 개선하기/일대다 페이지네이션 개선하기(feat. n+1).md",
-    "블로그/페이지네이션 개선하기/페이지네이션 개선하기.md",
-    "데이터베이스/Real MySQL/5장 트랜잭션과 잠금.md",
-    "aws/S3.md",
-    "aws/Route53.md",
     "블로그/존재하지 않는 객체와 협력하기",
     "aws",
     "블로그/@WebMvcTest와 테스트 코드 개선하기",
     "블로그/스프링의 비동기 처리",
     "블로그/스프링 이벤트 발행",
     "블로그/객체지향 스터디 회고",
-    "블로그/프로젝션, 인덱스로 조회 성능 개선하기",
-    "블로그/일대다 페이지네이션 개선하기(feat.n+1)",
-    "블로그/일대다 페이지네이션 개선하기"
+    "블로그/프로젝션, 인덱스로 조회 성능 개선하기"
   ]
 }
